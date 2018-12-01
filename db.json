@@ -28,6 +28,34 @@
       "lname": "Daniels",
       "program": "Finance",
       "comment": "This student is doing poorly in the program"
-    }
+    },
+    {
+      "id": "3",
+      "fname": "Jack",
+      "lname": "Daniels",
+      "program": "Computer Science",
+      "comment": "This students is doing good in the program"
+    },
+    {
+      "id": "4",
+      "fname": "Mac",
+      "lname": "nCheese",
+      "program": "Culinary Arts",
+      "comment": "This is a transfer student"
+    },
+    {
+      "id": "5",
+      "fname": "Tony",
+      "lname": "Montanna",
+      "program": "Finance",
+      "comment": "This student is murdering other students"
+    },
+    {
+      "id": "6",
+      "fname": "Salvador",
+      "lname": "Hernandez",
+      "program": "Economics",
+      "comment": "This student is just a student"
+    },
   ]
 }
