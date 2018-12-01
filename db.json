@@ -1,25 +1,32 @@
 {
   "Students": [
-  
-    {
-      "id": "2",
-      "fname": "John",
-      "lname": "Smith",
-      "program:": "Marketing",
-      "comment": "This student is on refeeral"
+    
+     {
+      "id": "1",
+      "fname": "Ahmed",
+      "lname": "Mohamed",
+      "program": "Computer Sceince",
+      "comment": "This students is doing good in the program"
     },
     {
       "id": "2",
       "fname": "John",
       "lname": "Smith",
-      "program:": "Finance",
+      "program": "Marketing",
+      "comment": "This student is on referal"
+    },
+    {
+      "id": "2",
+      "fname": "John",
+      "lname": "Smith",
+      "program": "Finance",
       "comment": "This is a transfer student"
     },
     {
       "id": "3",
       "fname": "Jack",
       "lname": "Daniels",
-      "program:": "Finance",
+      "program": "Finance",
       "comment": "This student is doing poorly in the program"
     }
   ]
