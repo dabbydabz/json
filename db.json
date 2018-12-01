@@ -1,13 +1,6 @@
 {
   "Students": [
     {
-      "id": "1",
-      "fname": "Ahmed",
-      "lname": "Mohamed",
-      "program": "Computer Sceince",
-      "comment": "This students is doing good in the program"
-    },
-    {
       "id": "2",
       "fname": "John",
       "lname": "Smith",
