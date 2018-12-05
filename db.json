@@ -5,7 +5,7 @@
       "id": "1",
       "fname": "Ahmed",
       "lname": "Mohamed",
-      "program": "Computer Sceince",
+      "program": "ComputerSceince",
       "comment": "This students is doing good in the program"
     },
     {
@@ -33,7 +33,7 @@
       "id": "3",
       "fname": "Jack",
       "lname": "Daniels",
-      "program": "Computer Science",
+      "program": "ComputerScience",
       "comment": "This students is doing good in the program"
     },
     {
